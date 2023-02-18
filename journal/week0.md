@@ -10,7 +10,7 @@ I installed AWS CLI through the ""command Prompt""
 
 **Note to insert image**
 
-!.[Installing AWS CLI].(assets/Week0-AWS CLI INSTALLATION.jpg)
+[Installing AWS CLI].(assets/Week0-AWS CLI INSTALLATION.jpg)
 
 ```    
 msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
