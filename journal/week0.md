@@ -14,6 +14,13 @@ I installed AWS CLI through the ""command Prompt""
 
 **Note**
 
+##User account created
+##MFA activated on root account
+##created billing alarm
+##budget alarm created
+##architecure drawing from lucid updated
+
+
 ```    
 msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 
