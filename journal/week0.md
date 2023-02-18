@@ -12,13 +12,15 @@ I installed AWS CLI through the ""command Prompt""
 
 .[Installing AWS CLI].(_docs/assets/Week0_Proof_of_working_in_AWS_CLI.jpg)
 
-**Note**
-
 ##User account created
 ##MFA activated on root account
 ##created billing alarm
 ##budget alarm created
 ##architecure drawing from lucid updated
+
+**Note**
+
+
 
 
 ```    
