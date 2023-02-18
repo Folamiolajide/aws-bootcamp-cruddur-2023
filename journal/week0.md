@@ -16,6 +16,9 @@ I installed AWS CLI through the ""command Prompt""
 msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 
 ```
+
+!.[Proof of working in AWS CLI].(assets
+
 I also used the comand "AWS Configure" to view the encrypted access key ID & secret acess key
 
 C:\Users\FOLA>aws configure
