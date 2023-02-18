@@ -17,23 +17,10 @@ msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 
 ```
 
-!.[Proof of working in AWS CLI].(assets
+!.[Proof of working in AWS CLI].(assets/Week0_Proof_of_working_in_AWS_CLI.jpg)
 
+##
 I also used the comand "AWS Configure" to view the encrypted access key ID & secret acess key
-
-C:\Users\FOLA>aws configure
-AWS Access Key ID [****************KTFS]:
-AWS Secret Access Key [****************CErp]:
-Default region name [us-east-1]:
-Default output format [None]:
-
-C:\Users\FOLA>aws configure list
-      Name                    Value             Type    Location
-      ----                    -----             ----    --------
-   profile                <not set>             None    None
-access_key     ****************KTFS shared-credentials-file
-secret_key     ****************CErp shared-credentials-file
-    region                us-east-1      config-file    ~/.aws/config
 
 **Note to insert image**
 ## Homework challenges  
